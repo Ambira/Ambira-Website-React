@@ -28,7 +28,7 @@ const Art = () => {
                     Gallery of My Artwork
                   </h1>
                   <p className="subtitle has-text-grey-light is-size-5 mt-3">
-                    Take a journey through my creative expressions. Here, you'll find a collection of my art pieces, showcasing my love for colors, forms, and imagination.
+                    Take a journey through my creative expressions here just art. You'll find a collection of my art pieces, showcasing my love for colors, forms, and imagination.
                   </p>
                 </div>
               </div>
@@ -36,13 +36,15 @@ const Art = () => {
           </div>
         </div>
       </section>
+            {/* SVG Waves & Footer */}
+      <HeroWaves />
 
       {/* Art Gallery Section */}
       <section className="section">
         <div className="container">
           <div className="columns is-multiline">
             {/* Art Piece 1 */}
-            <div className="column is-4" data-aos="fade-up">
+            {/* <div className="column is-4" data-aos="fade-up">
               <div className="card">
                 <div className="card-image">
                   <figure className="image is-4by3">
@@ -56,10 +58,10 @@ const Art = () => {
                   </p>
                 </div>
               </div>
-            </div>
+            </div> */}
 
             {/* Art Piece 2 */}
-            <div className="column is-4" data-aos="fade-up" data-aos-delay="100">
+            {/* <div className="column is-4" data-aos="fade-up" data-aos-delay="100">
               <div className="card">
                 <div className="card-image">
                   <figure className="image is-4by3">
@@ -73,10 +75,10 @@ const Art = () => {
                   </p>
                 </div>
               </div>
-            </div>
+            </div> */}
 
             {/* Art Piece 3 */}
-            <div className="column is-4" data-aos="fade-up" data-aos-delay="200">
+            {/* <div className="column is-4" data-aos="fade-up" data-aos-delay="200">
               <div className="card">
                 <div className="card-image">
                   <figure className="image is-4by3">
@@ -90,14 +92,13 @@ const Art = () => {
                   </p>
                 </div>
               </div>
-            </div>
+            </div> */}
             {/* Additional art pieces can be added similarly */}
           </div>
         </div>
       </section>
 
-      {/* SVG Waves & Footer */}
-      <HeroWaves />
+
     </>
   );
 };
