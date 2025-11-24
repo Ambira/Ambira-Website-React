@@ -486,3 +486,6 @@ button:hover svg {
 .card .button:hover {
   background-color: #0ebe4d;
 }
+.navbar-item:hover h1 {
+  color: #22c55e;
+}

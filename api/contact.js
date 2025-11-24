@@ -44,7 +44,7 @@ export default async function handler(req, res) {
     // Compose email
     const mailOptions = {
       from: `"Website Contact" <${SMTP_USER}>`,     // sender
-      to: "ambiriapradhan1@gmail.com",             // recipient (your email)
+      to: "ambirapradhan1@gmail.com",             // recipient (your email)
       subject: `Website contact from ${name} <${email}>`,
       text: `
 You have a new message from your website contact form.
