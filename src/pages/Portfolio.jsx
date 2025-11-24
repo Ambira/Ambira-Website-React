@@ -174,8 +174,8 @@ const Portfolio = () => {
         </div>
       </section>
 
-      {/* Decorative SVG Waves and Footer */}
-      <HeroWaves />
+      {/* Decorative SVG Waves no wake bc bad positioning */}
+      {/* <HeroWaves /> */}
     </div>
   );
 };
