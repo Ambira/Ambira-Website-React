@@ -27,9 +27,9 @@ const About = () => {
                     Ambira Pradhan
                   </h1>
                   <p className="subtitle has-text-grey-light is-size-5 mt-3">
-                    Hello! I'm Ambira Pradhan, a passionate cook, artist, traveler,
+                    Hello! नमस्ते I'm Ambira Pradhan, a passionate cook, artist, traveler,
                     and writer. Through this website, I aim to share my journey,
-                    experiences,thoughts as well as creations with the world. Welcome to my corner
+                    experiences,thoughts as well as creations with the world. Welcome to my cozy corner
                     of the internet!
                   </p>
                 </div>
