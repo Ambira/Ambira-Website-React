@@ -177,7 +177,22 @@ const Portfolio = () => {
                   <h3 className="title is-4">Orchid Insights Vol I</h3>
                   <p className="pb-2">Worked on Design and Layout of Orchid Insights Vol I</p>
                   <a
-                    href=""
+                    href="https://www.oic.edu.np/wp-content/uploads/2025/07/Final-main-work.pdf"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="button is-link is-outlined"
+                  >
+                    View Project
+                  </a>
+                </div>
+              </div>
+              {/* Project Card 7- Narendra Paudel Website */}
+              <div className="column is-6" data-aos="fade-up" data-aos-delay="150">
+                <div className="interactive-box">
+                  <h3 className="title is-4">Narendra Raj Paudel Website</h3>
+                  <p className="pb-2">Developed a professional website for Narendra Paudel with a focus on showcasing his work and achievements.</p>
+                  <a
+                    href="https://narendrarajpaudel.com.np/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="button is-link is-outlined"
