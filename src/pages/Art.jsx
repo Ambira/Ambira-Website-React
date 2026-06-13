@@ -44,11 +44,11 @@ const Art = () => {
         <div className="container">
           <div className="columns is-multiline">
             {/* Art Piece 1 */}
-            {/* <div className="column is-4" data-aos="fade-up">
+            <div className="column is-4" data-aos="fade-up">
               <div className="card">
                 <div className="card-image">
                   <figure className="image is-4by3">
-                    <img src="art1.jpg" alt="Art Piece 1" />
+                    <img src="mountain.jpg" alt="Art Piece 1" />
                   </figure>
                 </div>
                 <div className="card-content">
@@ -58,7 +58,7 @@ const Art = () => {
                   </p>
                 </div>
               </div>
-            </div> */}
+            </div> 
 
             {/* Art Piece 2 */}
             {/* <div className="column is-4" data-aos="fade-up" data-aos-delay="100">
@@ -75,7 +75,7 @@ const Art = () => {
                   </p>
                 </div>
               </div>
-            </div> */}
+            </div>
 
             {/* Art Piece 3 */}
             {/* <div className="column is-4" data-aos="fade-up" data-aos-delay="200">
